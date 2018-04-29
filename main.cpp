@@ -29,7 +29,7 @@
  *
  * Ex
  *  1 0     a 1 1           b 2 0 3
- *  Din starea q0 pleaca 'a' spre q1 si 'b' spre q03
+ *  Din starea q0 pleaca 'a' spre q1 si 'b' spre q0 si q33
  *
  *  //////////
  * Ex
@@ -38,7 +38,7 @@
  *  /////////
  * Ex
  *  1 4     a 3 0 2 3       b 0
- *  Din starea q4 pleaca 'a' spre q023 si 'b' spre nimeni
+ *  Din starea q4 pleaca 'a' spre q0, q2 si q3 si 'b' spre nimeni
  *
  *
  * Exemplu fisier de intrare
